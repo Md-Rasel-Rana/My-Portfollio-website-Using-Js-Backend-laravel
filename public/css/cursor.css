@@ -1,0 +1,23 @@
+
+      body {
+        cursor: true; /* Hide the default cursor */
+      }
+      .custom-cursor {
+        position: fixed;
+        width: 25px;
+        height: 25px;
+        border: 2px solid transparent;
+        border-radius: 50%;
+        background-color: transparent;
+        pointer-events: none; /* Ensure the cursor does not interfere with mouse events */
+        z-index: 9999; /* Ensure the cursor is above all other elements */
+        animation: colorCycle 2s infinite linear; /* Animate color cycle */
+      }
+      @keyframes colorCycle {
+        0% { border-color: red; }
+        25% { border-color: blue; }
+        50% { border-color: green; }
+        75% { border-color: yellow; }
+        100% { border-color: red; }
+      }
+    
