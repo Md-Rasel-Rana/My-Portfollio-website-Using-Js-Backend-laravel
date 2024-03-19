@@ -1,0 +1,50 @@
+/* Add your custom styles here */
+.card2 {
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 10px 10px 50px rgba(255, 255, 255, 0.5);
+    color: white;
+    margin-bottom: 20px;
+}
+
+.card2 img {
+    width: 50%;
+    border-radius: 50%;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    margin-left: 65px;
+}
+
+.card2 p {
+    font-size: 13px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    padding-top: 10px;
+    padding-bottom: 25px;
+}
+
+.card2 h3 {
+    padding-top: 10px;
+    font-size: 14px;
+}
+
+.card2 a {
+    display: inline-block;
+    padding: 3px 8px; /* Adjust padding for smaller button */
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    border-radius: 20px; /* Adjust border-radius for rounded corners */
+    background-color: #ffc107;
+    color: black;
+    text-decoration: none;
+    margin-top: 10px;
+    font-size: 12px; /* Adjust font size for smaller button */
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-bottom: 40px;
+   
+}
+.btn3{
+    border-radius: 50%;
+}

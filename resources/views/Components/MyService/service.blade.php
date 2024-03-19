@@ -4,7 +4,7 @@
       <div class="col-md-12 heading-section text-center ftco-animate">
           <h1 class="big big-2">Services</h1>
         <h2 class="mb-4">Services</h2>
-        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+        <p>At my perosnal company, we are dedicated to providing high-quality services tailored to meet your needs. Our team of experts specializes in delivering exceptional solutions to help you achieve your goals. Explore our range of services below:</p>
       </div>
     </div>
         <div class="row">
@@ -24,7 +24,7 @@
                             <i class="flaticon-flasks"></i>
                         </span>
                         <div class="desc">
-                            <h3 class="mb-5">Phtography</h3>
+                            <h3 class="mb-5">Wordpress Website</h3>
                         </div>
                     </a>
                 </div>
@@ -55,7 +55,7 @@
                             <i class="flaticon-flasks"></i>
                         </span>
                         <div class="desc">
-                            <h3 class="mb-5">Branding</h3>
+                            <h3 class="mb-5">Digital Marketing</h3>
                         </div>
                     </a>
                 </div>
@@ -65,7 +65,7 @@
                             <i class="flaticon-ideas"></i>
                         </span>
                         <div class="desc">
-                            <h3 class="mb-5">Product Strategy</h3>
+                            <h3 class="mb-5">Phtography </h3>
                         </div>
                     </a>
                 </div>

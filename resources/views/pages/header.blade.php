@@ -8,6 +8,7 @@
 @include('Components.Myskill.myskill')
 @include('Components.Myproject.myproject')
 @include('Components.Myblog.myblog')
+@include('Components.Mypartner.mypartner')
 @include('Components.CounterSection.countersection')
 @include('Components.Freelancing.Freelancing')
 @include('Components.Contact-Me.contactme')
