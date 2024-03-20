@@ -6,9 +6,9 @@
             <h2 class="ftco-heading-2">About</h2>
             <p>Hi there! I'm Rasel Rana, a Full Stack Developer with a passion for Programming. With one year of experience as a Laravel Developer</p>
             <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
-              <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-              <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-              <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+              <li class="ftco-animate"><a href="https://www.youtube.com/@RANAJOBPREPARATIONBD127RU"target="_blank"><span class="icon-youtube"></span></a></li>
+              <li class="ftco-animate"><a href="https://www.facebook.com/profile.php?id=100008713909233" target="_blank"><span class="icon-facebook"></span></a></li>
+              <li class="ftco-animate"><a href="https://www.instagram.com/rase531/" target="_blank"><span class="icon-instagram"></span></a></li>
             </ul>
           </div>
         </div>

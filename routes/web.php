@@ -15,3 +15,8 @@ Route::get('/MyBlog',[DemoController::class,'MyBlogpage']);
 Route::get('/Contact',[DemoController::class,'Contactpage']);
 
 Route::post('/message-send',[DemoController::class,'Usermessage']);
+
+Route::get('/download/resume',function (){
+    $file = storage_path('app/public/Rasel-Rana-Resume-Laravel-Developer.pdf');
+    return response()->download($file, 'Rasel-Rana-Resume-Laravel-Developer.pdf');
+});

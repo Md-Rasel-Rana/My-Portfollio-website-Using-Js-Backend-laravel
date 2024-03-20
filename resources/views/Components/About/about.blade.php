@@ -30,7 +30,7 @@
                 <span class="number" data-number="65">0</span>
                 <span>Project complete</span>
             </p>
-            <p><a href="#" class="btn btn-primary py-3 px-3">Download CV</a></p>
+            <p><a href="{{ url('/download/resume') }}" class="btn btn-primary py-3 px-3">Download CV</a></p>
           </div>
           </div>
         </div>

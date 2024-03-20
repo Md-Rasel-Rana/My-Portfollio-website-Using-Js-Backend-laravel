@@ -12,5 +12,4 @@
 @include('Components.CounterSection.countersection')
 @include('Components.Freelancing.Freelancing')
 @include('Components.Contact-Me.contactme')
-@include('Components.Footer.footer')
 @endsection

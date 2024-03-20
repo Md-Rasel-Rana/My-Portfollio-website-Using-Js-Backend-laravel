@@ -1,5 +1,5 @@
 <section class="body">
-    <h1 class="text-center">My Partner </h1>
+    <h1 class="text-center mysection"> Our Members </h1>
     <div class="container">
       
         <div class="row">

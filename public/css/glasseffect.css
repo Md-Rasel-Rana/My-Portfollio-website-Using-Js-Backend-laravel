@@ -48,3 +48,11 @@
 .btn3{
     border-radius: 50%;
 }
+.mysection{
+    margin-bottom: 50px;
+
+    text-decoration: bold;
+    font-size: 60px;
+    font-weight: 800;
+   
+}
