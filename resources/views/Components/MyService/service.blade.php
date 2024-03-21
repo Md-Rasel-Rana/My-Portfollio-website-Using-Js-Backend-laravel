@@ -65,7 +65,7 @@
                             <i class="flaticon-ideas"></i>
                         </span>
                         <div class="desc">
-                            <h3 class="mb-5">Phtography </h3>
+                            <h3 class="mb-5">SEO Service </h3>
                         </div>
                     </a>
                 </div>

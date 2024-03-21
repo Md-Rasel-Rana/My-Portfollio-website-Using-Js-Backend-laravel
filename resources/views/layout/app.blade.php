@@ -3,8 +3,7 @@
   <head>
     <title>Rana</title>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> 
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900" rel="stylesheet">
     <link rel="stylesheet" href="{{asset('css/open-iconic-bootstrap.min.css')}}">
     <link rel="stylesheet" href="{{asset('css/animate.css')}}"> 
@@ -24,6 +23,8 @@
     <script src="{{asset('js/toastify-js.js')}}"></script>
     <script src="{{asset('js/axios.min.js')}}"></script>
     <script src="{{asset('js/config.js')}}"></script>
+
+    <script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
     
   </head>
   
@@ -31,7 +32,7 @@
 	  
 	  <div class="custom-cursor"></div>
   
-@include('Components.Header.header')
+  @include('Components.Header.header')
 
    @yield('content')
 

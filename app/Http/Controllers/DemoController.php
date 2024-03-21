@@ -45,7 +45,7 @@ class DemoController extends Controller
       ]);
       return response()->json([
         'status'=>'success',
-        'message' => 'Message sent successfully',
+        'message' => 'Your Message sent successfully',
        ],201);
     }
 
